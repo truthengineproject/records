@@ -1,0 +1,14 @@
+Licensing for this repository
+
+Documents (all files other than source code), including text, tables and figures:
+  Creative Commons Attribution 4.0 International (CC BY 4.0)
+  https://creativecommons.org/licenses/by/4.0/legalcode
+  You may share and adapt them for any purpose, with credit to
+  "The Truth Engine project (truthengineproject.substack.com)".
+
+Source code: MIT licence, see LICENSE-CODE.
+
+Proof files (.ots, .tsr, .tsq) are machine-generated records and may be
+copied freely. FreeTSA's certificates (cacert.pem, tsa.crt) belong to
+FreeTSA and are included only so the timestamps can be checked; obtain
+them from https://freetsa.org to verify independently.

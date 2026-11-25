@@ -19,11 +19,12 @@ This repository is where you can check those promises for yourself.
 | Folder | What it holds |
 |---|---|
 | [`examples/pp1-change3/`](examples/pp1-change3/) | A worked example of a sealed, timestamped rule, with its proof files and step-by-step instructions to verify it yourself. |
+| [`plans/`](plans/) | Sealed plans and rules for tests now waiting to run, each with its proofs, and proofs for the M1 pilot files that are held back until the pilot allows. |
 | [`results/phase1/`](results/phase1/) | The Phase 1 result reported in our first post: the evidence auditor against prediction markets and expert panels. |
 | [`CORRECTIONS.md`](CORRECTIONS.md) | The public corrections log. |
 | [`SHA256SUMS`](SHA256SUMS) | Fingerprints of every file in this repository. |
 
-More records will be added as they are screened for release: the other sealed plans, their proofs, the decision log and further results.
+More records will be added as they are screened for release: the code the plans name, the decision log and further results.
 
 ## What is not here, and why
 
